@@ -1,3 +1,3 @@
 # ijssalon_basis
-Basisproject voor Project IJssalon - NHA(Opleiding)
-Het meestendeels niet door mij gemaakt!
+Basic project for Project IJssalon - NHA(Opleiding)
+Mostly wasn't made by me. It was a part of my study(NHA)
